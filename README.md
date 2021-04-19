@@ -19,6 +19,8 @@ then use the function -
        (*note here n will be the split of character for each column for 2-2 values in each column use n =2 and for 3-3 use n = 3 and so on)
 
 
+
+If you want the values in a DataFrame then do this -
 import pandas as pd
 df_dum = pd.DataFrame(var_list)
 
