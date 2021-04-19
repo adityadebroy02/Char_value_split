@@ -15,7 +15,7 @@ Column_1  column_2 and so on....
 '123'     '456'
 
 then use the function -
-       var_list = char_split(df, 'column_name', n)  
+       <b>var_list = char_split(df, 'column_name', n) <b/> 
        (*note here n will be the split of character for each column for 2-2 values in each column use n =2 and for 3-3 use n = 3 and so on)
 
 
